@@ -1,16 +1,34 @@
-## Hi there 👋
+[README (1).md](https://github.com/user-attachments/files/29117502/README.1.md)
+# Hi, I'm Karim Ghonem 👑
 
-<!--
-**KarimGhonem/KarimGhonem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer
 
-Here are some ideas to get you started:
+Building solid, scalable systems — focused on clean architecture, APIs, and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on backend systems and side projects
+- 🌱 Always sharpening my stack
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-handle) or via my profile
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Stack](https://skillicons.dev/icons?i=python,ts,js,cpp,cs)
+
+**Frontend & Runtime**
+
+![Stack](https://skillicons.dev/icons?i=react,nodejs)
+
+**Data & Infrastructure**
+
+![Stack](https://skillicons.dev/icons?i=postgres,supabase,vercel)
+
+---
+
+### 📊 GitHub Stats
+
+![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimGhonem&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimGhonem&layout=compact&theme=tokyonight)
